@@ -6,7 +6,7 @@
 
 ### 1. Structural Health Monitoring
 
-#### 1.1 Civil Structure
+#### 1.1 Civil Infrastructure
 
 1. **A computational framework for modeling complex sensor network data using graph signal processing and graph neural networks in structural health monitoring**. S. Bloemheuvel, J. Hoogen and M. Atzmueller. Applied Network Science 2021. [paper](https://appliednetsci.springeropen.com/articles/10.1007/s41109-021-00438-8)
 2. **On an Application of Graph Neural Networks in Population-Based SHM**. G. Tsialiamanis, C. Mylonas, E. Chatzi, D.J. Wagg, N. Dervilis& K. Worden. Data Science in Engineering 2021. [paper](https://arxiv.org/pdf/2203.01646.pdf)
