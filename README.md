@@ -16,6 +16,8 @@
 1. **EMI-GCN: a hybrid model for real-time monitoring of multiple bolt looseness using electromechanical impedance and graph convolutional networks**. L. Zhou, S. Chen, Y, Ni and A. Choy. Smart Materials and Structures 2021. [paper](https://iopscience.iop.org/article/10.1088/1361-665X/abe292)
 2. **Pitch-catch UGW-based multiple damage inference: a heterogeneous graph interpretation**. L. Zhou, S. Chen, Y. Ni1,2 and L. Jiang. Smart Materials and Structures 2022. [paper](https://iopscience.iop.org/article/10.1088/1361-665X/ac36b0)
 3. **Intelligent acoustic-based fault diagnosis of roller bearings using a deep graph convolutional network**. D. Zhang, E. Stewart, M.Entezami, C. Roberts D. Yu. Measurement 2020. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0263224120301226#!)
+4. **Graph Neural Networks for Leveraging Industrial Equipment Structure: An application to Remaining Useful Life Estimation**. J. Narwariya, P. Malhotra, V. TV, L. Vig, G. Shroff. AAAI workshop DLGMA'20. [paper](https://arxiv.org/abs/2006.16556)
+5. **Physics-informed graph neural Galerkin networks: A unified framework for solving PDE-governed forward and inverse problems**. H. Gao, M. Zahr, J. Wang. Computer Methods in Applied Mechanics and Engineering 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782521007076)
 
 ### 2. Structure Design
 
@@ -24,7 +26,7 @@
 
 
 
-
+To be continued
 
 
 
