@@ -1,4 +1,4 @@
-# Graph Neural Network (GNN) for Mechanical, Structural Systems
+# Graph Neural Network for Engineering Systems
 
 
 
