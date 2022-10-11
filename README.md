@@ -13,6 +13,7 @@
 3. **Foundations of population-based SHM, Part IV: The geometry of spaces of structures and their feature spaces**. G. Tsialiamanis, C. Mylonas, E. Chatzi, N. Dervilis, D.J. Wagg, K. Worden. Mechanical Systems and Signal Processing 2021. [paper](https://www.sciencedirect.com/science/article/pii/S088832702100087X)
 4. **Novelty detection of cable-stayed bridges based on cable force correlation exploration using spatiotemporal graph convolutional networks**. S. Li, J. Niu, Z. Li. Structural Health Monitoring 2021. [paper](https://sci-hub.se/https://doi.org/10.1177/1475921720988666)
 5. **Damage Localization and Severity Assessment of a Cable-Stayed Bridge Using a Message Passing Neural Network**. H. Son, V. Pham, Y. Jang, and S. Kim. Sensors 2021. [paper](https://www.mdpi.com/1424-8220/21/9/3118)
+6. **Restoration of missing structural health monitoring data using spatiotemporal graph attention networks.** J. Niu, S. Li, Z. Li. Structural Health Monitoring 2022. [paper](https://journals.sagepub.com/doi/abs/10.1177/14759217211056832)
 
 #### 1.2 Mechanical System
 
